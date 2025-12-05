@@ -4,13 +4,6 @@ Repositorio con la aplicación React/Vite del proyecto "Maquetacion - Meditech".
 
 Instrucciones rapidas
 
-- Instalar dependencias:
-
-```powershell
-cd 'c:\Users\PcGamer-G\Documents\Recursos Meditech\Maquetacion - Meditech\react-app'
-npm install
-```
-
 - Ejecutar en desarrollo:
 
 ```powershell
